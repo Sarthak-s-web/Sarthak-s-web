@@ -271,14 +271,14 @@ I regularly practice **Data Structures & Algorithms in C++**.
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="GithubLink">
+  <a href="https://github.com/Sarthak-s-web">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
-  <a href="LInkedIN">
+  <a href=" https://www.linkedin.com/in/sarthak-garg-8411342a5">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
