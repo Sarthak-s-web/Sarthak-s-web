@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sarthak Garg
 
-### `Backend Developer` • `Full-Stack Developer` • `C++ / DSA`
 
 Building backend systems, APIs and full-stack applications
 while solving problems one commit at a time.
@@ -11,7 +10,6 @@ while solving problems one commit at a time.
 
 ```javascript
 const sarthak = {
-    role: "Backend / Full-Stack Developer",
     education: "B.Tech CSE (AI/ML)",
 
     languages: [
