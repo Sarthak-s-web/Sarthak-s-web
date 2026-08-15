@@ -203,16 +203,6 @@ Developer:
 
 `DEBUG → TEST → DEPLOY`
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sarthak-s-web&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 ---
 
