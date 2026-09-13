@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Sarthak Garg
 
-
-Building backend systems, APIs and full-stack applications
-while solving problems one commit at a time.
+Building backend systems, APIs and full-stack applications while solving problems.
 
 ---
 
@@ -42,7 +40,8 @@ const sarthak = {
 
     currentlyLearning: [
         "Advanced JavaScript",
-        "Scalable Backend Architecture",
+        "Backend Architecture",
+        "System Design"
     ],
 
     goal: "Build reliable software that solves real-world problems"
@@ -83,45 +82,46 @@ const sarthak = {
 
 > Projects that demonstrate my practical development skills.
 
+## 💼 RecruitX - Job Recruitment Platform
+
+**React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary**
+
+A full-stack recruitment platform supporting job discovery, applications, recruiter workflows and application tracking.
+
+### Highlights
+
+- 🔐 JWT authentication
+- 👥 Role-based access control
+- 💼 Job creation and management
+- 🔎 Job search and filtering
+- 📄 Resume upload and storage
+- 📨 Job application workflow
+- 📊 Application status tracking
+- ☁️ Cloudinary integration
+- 🛡️ Protected REST APIs
+
+🔗 [**View Repository**](https://github.com/Sarthak-s-web/RecruitX)
+
+---
+
 ## 🏦 Bank Transaction System
 
-**Node.js · Express.js · MongoDB · Mongoose**
+**Node.js · Express.js · MongoDB · Mongoose · JWT · Nodemailer**
 
 A backend system designed around reliable account management, transactions and ledger-based accounting.
 
 ### Highlights
 
-* 🔐 Authentication & authorization
-* 💰 Account management
-* 🔄 Account-to-account transfers
-* 🧾 Ledger-based transaction tracking
-* ♻️ Idempotent transaction handling
-* 🔒 Transaction consistency
-* 🛡️ Protected API routes
+- 🔐 Authentication & authorization
+- 💰 Account management
+- 🔄 Account-to-account transfers
+- 🧾 Ledger-based transaction tracking
+- ♻️ Idempotent transaction handling
+- 🔒 Transaction consistency
+- 🛡️ Protected API routes
+- 📧 Transaction email notifications
 
 🔗 [**View Repository**](https://github.com/Sarthak-s-web/Ledger-System)
-
----
-
-## 🎥 Video Streaming Platform
-
-**Node.js · Express.js · MongoDB · JWT · Cloudinary · Multer**
-
-A backend-focused video platform built around authentication, media management and social interactions.
-
-### Highlights
-
-* 🔐 JWT authentication
-* 🔄 Access & refresh token system
-* 🎬 Video uploads
-* ☁️ Cloudinary integration
-* 📂 Playlists
-* 👍 Likes & comments
-* 👥 Subscriptions
-* 📊 Analytics
-* 🛡️ Protected APIs
-
-🔗 [**View Repository**](https://github.com/Sarthak-s-web/Video-Streaming-Platform)
 
 ---
 
@@ -203,7 +203,6 @@ Developer:
 
 `DEBUG → TEST → DEPLOY`
 
-
 ---
 
 # 🧠 Problem Solving
@@ -230,8 +229,7 @@ I regularly practice **Data Structures & Algorithms in C++**.
 ✓ MongoDB & SQL
 ✓ Full-Stack Development
 → System Design
-→ Scalable Architecture
-→ Cloud & DevOps
+→ Backend Architecture
 ```
 
 ---
@@ -239,17 +237,17 @@ I regularly practice **Data Structures & Algorithms in C++**.
 # 🏆 Development Philosophy
 
 ```text
-        BUILD
-          ↓
-        BREAK
-          ↓
-        DEBUG
-          ↓
-        LEARN
-          ↓
-        IMPROVE
-          ↓
-        REPEAT
+       BUILD
+         ↓
+       BREAK
+         ↓
+       DEBUG
+         ↓
+       LEARN
+         ↓
+       IMPROVE
+         ↓
+       REPEAT
 ```
 
 **Quality > Quantity • Consistency > Motivation**
